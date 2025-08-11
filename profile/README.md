@@ -1,4 +1,4 @@
-# 🧠 DCMini — Miniaturized Biopotential Amplifier & Multi-Sensor Suite
+# DCMini — Miniaturized Biopotential Amplifier
 
 © 2025 The Johns Hopkins University Applied Physics Laboratory LLC
 
