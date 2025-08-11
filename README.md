@@ -1,2 +1,0 @@
-# .github
-DCMini Biosignal Amplifier

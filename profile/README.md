@@ -6,4 +6,4 @@ DCMini is a **miniaturized biopotential amplifier and multi-sensor system** desi
 
 > ⚠️ This hardware is for **research and development only**. It is **not certified** for medical use and **must not** be used for medical diagnostic purposes.
 
-![DCMini on Forehead](images/dcm_head.png)
+![DCMini](dcmini.png)
